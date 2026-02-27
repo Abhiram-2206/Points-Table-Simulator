@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Status](![Status](https://img.shields.io/badge/Project-In%20Progress-yellow))
+![Status](https://img.shields.io/badge/Project-In%20Progress-yellow)
 
 ------------------------------------------------------------------------
 
