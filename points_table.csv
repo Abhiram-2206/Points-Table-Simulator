@@ -1,5 +1,5 @@
-Rank,Team,Matches,Wins,Losses,Points,NRR
-1,RSA,3,3,0,6,2.259
-2,IND,3,2,1,4,0.106
-3,WI,3,1,2,2,0.993
-4,ZIM,3,0,3,0,-3.415
+Rank,Team,M,W,L,NR,Pts,NRR,SO Wins
+1,Mumbai Indians,1,1,0,0,2,1.089,0
+2,Sunrisers Hyderabad,1,1,0,0,2,0.8,0
+3,Royal Challengers Bengaluru,1,0,1,0,0,-0.8,0
+4,Chennai Super Kings,1,0,1,0,0,-1.089,0
