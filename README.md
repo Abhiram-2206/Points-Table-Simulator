@@ -1,4 +1,4 @@
-# 🏏 Cricket Points Table & NRR Simulator
+# 🏏 Cricket Points Table Simulator
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)
